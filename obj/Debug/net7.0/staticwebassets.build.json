@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ucS7dOnqrWjRzSFlq2Kq6mXTMLaBfGj2eZYWilqsL2A=",
+  "Source": "PatientCareAPI",
+  "BasePath": "_content/PatientCareAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
